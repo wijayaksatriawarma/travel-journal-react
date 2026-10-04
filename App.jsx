@@ -14,11 +14,11 @@ export default function App() {
     })
     
     return (
-        <>
+        <main className="main-container">
             <Header />
             <main className="container">
                 {entryElements}
             </main>
-        </>
+        </main>
     )
 }

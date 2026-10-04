@@ -6,6 +6,12 @@ body {
     font-family: Inter;
 }
 
+.main-container{
+    width: 550px;
+    margin: 20px auto;
+    border: 1px solid black;
+}
+
 .container {
     margin: 45px 40px;
 }
